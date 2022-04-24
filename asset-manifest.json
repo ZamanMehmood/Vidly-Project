@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Vidly-Poject/static/css/main.19c4bee2.css",
-    "main.js": "/Vidly-Poject/static/js/main.5946f6c7.js",
-    "static/js/787.3f70b7f2.chunk.js": "/Vidly-Poject/static/js/787.3f70b7f2.chunk.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Vidly-Poject/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/Vidly-Poject/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Vidly-Poject/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Vidly-Poject/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Vidly-Poject/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/Vidly-Poject/index.html",
-    "main.19c4bee2.css.map": "/Vidly-Poject/static/css/main.19c4bee2.css.map",
-    "main.5946f6c7.js.map": "/Vidly-Poject/static/js/main.5946f6c7.js.map",
-    "787.3f70b7f2.chunk.js.map": "/Vidly-Poject/static/js/787.3f70b7f2.chunk.js.map"
+    "main.css": "/vidly-project/static/css/main.d684570d.css",
+    "main.js": "/vidly-project/static/js/main.b7a60d15.js",
+    "static/js/787.3f70b7f2.chunk.js": "/vidly-project/static/js/787.3f70b7f2.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/vidly-project/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/vidly-project/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/vidly-project/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/vidly-project/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/vidly-project/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/vidly-project/index.html",
+    "main.d684570d.css.map": "/vidly-project/static/css/main.d684570d.css.map",
+    "main.b7a60d15.js.map": "/vidly-project/static/js/main.b7a60d15.js.map",
+    "787.3f70b7f2.chunk.js.map": "/vidly-project/static/js/787.3f70b7f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.19c4bee2.css",
-    "static/js/main.5946f6c7.js"
+    "static/css/main.d684570d.css",
+    "static/js/main.b7a60d15.js"
   ]
 }
